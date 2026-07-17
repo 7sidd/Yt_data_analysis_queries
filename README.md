@@ -1,4 +1,4 @@
-# YouTube India Publisher Strategy Analysis
+# YouTube India Dataset Analysis
 
 ## Project Overview
 This project focuses on analyzing a dataset of over 16,000 historical YouTube records from top channels in India (`IN_Trending.csv`(Downloaded from kaggle)). Using **Snowflake SQL**, the data was cleaned, structured, and queried to understand how major Indian media networks schedule their content, optimize their titles, and engage their audiences.
